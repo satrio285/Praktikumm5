@@ -50,5 +50,10 @@ akhir = round((0.30 * tugas) + (0.35 * uts) + (0.35 * uas), 2)
 
 Fungsi round() digunakan agar nilai akhir hanya tampil 2 angka di belakang koma.
 
-### Tampilan Program
+## Flowchart
+![Gambar1](Flowchart)
+
+## Tampilan Program
+![Gambar2](ss1.png)
+![Gambar3](ss2.png)
 
